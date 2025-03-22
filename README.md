@@ -26,6 +26,6 @@ https://sweat.rocks/colorwordle
 
 **Contribute:**
 
-Feel free to contribute to the project!  Check out the [Contributing Guidelines](CONTRIBUTING.md) (if you have them).
+Feel free to contribute to the project!  Check out the [Contributing Guidelines](CONTRIBUTING.md)
 
 Made with ❤️ by alex
