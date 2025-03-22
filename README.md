@@ -13,7 +13,6 @@ Get ready for a vibrant twist on the classic word game!  In Colorwordle, you'll 
 
 *   Addictive gameplay
 *   Colorful interface
-*   Multiple difficulty levels (consider adding this if applicable)
 
 **Technologies Used:**
 
