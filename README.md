@@ -21,7 +21,7 @@ Get ready for a vibrant twist on the classic word game!  In Colorwordle, you'll 
 
 **Play Now!**
 
-[https://sweat.rocks/colorwordle](https://colorwordle.sweat.rocks/)
+[click me!](https://colorwordle.sweat.rocks/)
 
 **Contribute:**
 
