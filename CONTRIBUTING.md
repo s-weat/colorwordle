@@ -32,8 +32,7 @@ Please try to maintain consistency with the existing coding style.  If you're un
 
 **Code of Conduct:**
 
-We expect all contributors to follow a code of conduct based on respect, inclusivity, and collaboration.  [Link to Code of Conduct (if you have one), otherwise remove this section]
-
+We expect all contributors to follow a code of conduct based on respect, inclusivity, and collaboration. 
 **Thank You!**
 
 Your contributions are greatly appreciated. Thank you for helping make Colorwordle even better!
